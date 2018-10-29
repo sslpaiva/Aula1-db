@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula1</string>
+    <string-array name="val_gaveta">
+        <item>Cadastro</item>
+        <item>Pesquisar</item>
+        <item>Sobre</item>
+    </string-array>
+</resources>
